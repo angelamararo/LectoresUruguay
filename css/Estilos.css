@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500&family=Sofia+Sans:wght@1&display=swap');
 h1{
     text-align: left;
     color: black;
@@ -11,6 +12,9 @@ h2{
 body{
     color: white;
     background-image: url("/img/Imagen1.jpg");
+}
+p{
+    font-family: 'Manrope', sans-serif;;
 }
 div{
     padding: 40px;
